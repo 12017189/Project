@@ -8,3 +8,5 @@ https://www.dropbox.com/s/i6hddxb5a135v6s/twitter_data.txt?dl=0
 
 Alternatively, GetTweets.py can be run from a terminal to collect tweets using Twitter's Streaming API:
 $ python GetTweets.py > filename.txt
+
+Line 37 in Sentiment_Analysis.py, needs to be adjusted accordingly. 
